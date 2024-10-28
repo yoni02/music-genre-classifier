@@ -1,0 +1,17 @@
+# Node modules
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Byte-compiled files
+__pycache__/
+
+# Logs
+*.log
+
+# React build files
+frontend/build/
+
+# Ignore environment files (optional)
+.env
